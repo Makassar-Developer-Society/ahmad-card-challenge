@@ -31,7 +31,8 @@ export default function MediaControlCard() {
 
     return (
         <Card className={classes.root}>
-            <CardMedia className={classes.img}
+            <CardMedia
+                className={classes.img}
                 image={require('./../Assets/acca.jpg')}
             />
             <div className={classes.details}>
@@ -49,9 +50,7 @@ export default function MediaControlCard() {
                         Motto : Jangan Lakukan Sekarang kalau masih bisa dikerjakan besok
                     </Typography>
                 </CardContent>
-
             </div>
-
         </Card>
     );
 }

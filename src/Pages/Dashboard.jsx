@@ -7,21 +7,16 @@ export default function ComplexGrid() {
 
     return (
         <div>
-            <div>
-                <Header />
-            </div>
-            <div>
-                <Grid
-                    container
-                    direction="row"
-                    justify="center"
-                // alignItems="center"
-                >
-                    <Grid item style= {{width:500}}> 
+            <Header />
+            <Grid
+                container
+                direction="row"
+                justify="center"
+            >
+                <Grid item style={{ width: 500 }}>
                     <Card />
-                    </Grid>
                 </Grid>
-            </div>
+            </Grid>
         </div>
     );
 }
