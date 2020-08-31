@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ahmad-card-challenge/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ahmad-card-challenge/static/js/main.e76660b1.chunk.js",
+    "main.js.map": "/ahmad-card-challenge/static/js/main.e76660b1.chunk.js.map",
+    "runtime-main.js": "/ahmad-card-challenge/static/js/runtime-main.d62a0023.js",
+    "runtime-main.js.map": "/ahmad-card-challenge/static/js/runtime-main.d62a0023.js.map",
+    "static/js/2.1c408fee.chunk.js": "/ahmad-card-challenge/static/js/2.1c408fee.chunk.js",
+    "static/js/2.1c408fee.chunk.js.map": "/ahmad-card-challenge/static/js/2.1c408fee.chunk.js.map",
+    "index.html": "/ahmad-card-challenge/index.html",
+    "precache-manifest.c036025309fe1fdfe2c9b4267f102ebd.js": "/ahmad-card-challenge/precache-manifest.c036025309fe1fdfe2c9b4267f102ebd.js",
+    "service-worker.js": "/ahmad-card-challenge/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ahmad-card-challenge/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1c408fee.chunk.js.LICENSE.txt": "/ahmad-card-challenge/static/js/2.1c408fee.chunk.js.LICENSE.txt",
+    "static/media/acca.jpg": "/ahmad-card-challenge/static/media/acca.07a56f84.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d62a0023.js",
+    "static/js/2.1c408fee.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e76660b1.chunk.js"
+  ]
+}
