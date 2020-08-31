@@ -15,7 +15,7 @@ export default function ComplexGrid() {
                     container
                     direction="row"
                     justify="center"
-                    alignItems="center"
+                    // alignItems="center"
                 ><Card /></Grid>
             </div>
         </div>
